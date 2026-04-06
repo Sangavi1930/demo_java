@@ -11,7 +11,7 @@ public class switchcase{
             case 8:
                 System.out.println("Grade B");
                 break;
-            case 7:
+            case 5:
                 System.out.println("Grade C");
                 break;
             case 6:
